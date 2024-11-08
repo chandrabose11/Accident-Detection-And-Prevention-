@@ -1,4 +1,4 @@
-No problem! Here's the same **README** text in a more compact format for easy copying:
+
 
 ---
 
