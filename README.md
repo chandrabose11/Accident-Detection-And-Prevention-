@@ -76,4 +76,4 @@ Licensed under the MIT License – see [LICENSE](LICENSE) for details.
 
 ---
 
-You can now easily copy this version for your project!
+
